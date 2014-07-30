@@ -1,0 +1,27 @@
+{
+  "name": "pliers-webpagetest",
+  "version": "0.0.1",
+  "description": "Run webpagetest as a CLI option to get URL",
+  "main": "webpagetest.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:timjgleeson/pliers-webpagetest.git"
+  },
+  "author": {
+    "name": "Tim Gleeson"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "webpagetest": "~0.2.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "readme": "",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/timjgleeson/pliers-webpagetest/issues"
+  },
+  "homepage": "https://github.com/timjgleeson/pliers-webpagetest"
+}

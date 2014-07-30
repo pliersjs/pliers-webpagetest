@@ -1,0 +1,8 @@
+**/node_modules
+
+**/public/js/build
+**/public/js/lib/vendor
+**/public/js/app/lib/vendor
+
+admin/public/js/lib
+data/dev
