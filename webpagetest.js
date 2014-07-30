@@ -1,6 +1,4 @@
-module.exports = webpagetest
-
-var webpagetest = function (pliers, taskName, url, key, location) {
+module.exports = function (pliers, taskName, url, key, location) {
 
   pliers(taskName, function (done) {
     var options = {
