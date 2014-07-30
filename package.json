@@ -1,6 +1,6 @@
 {
   "name": "pliers-webpagetest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Run webpagetest as a CLI option to get URL",
   "main": "webpagetest.js",
   "scripts": { },
